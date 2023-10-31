@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419397059139",
+    "project_id": "uni-connect-95f26",
+    "storage_bucket": "uni-connect-95f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419397059139:android:dbd8de97f2bf90c9490af6",
+        "android_client_info": {
+          "package_name": "com.example.UniConnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419397059139-1ohetq5d8h99o7k02uan5uhg5gin8vg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.UniConnect",
+            "certificate_hash": "aec99aad76da89ddf73e38a7742532c2774fabd3"
+          }
+        },
+        {
+          "client_id": "419397059139-pgqcrk8vi8ud2jv0flpqpiav7tilcvio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RfPS68CuwPre29k14K51L22CrBJvwZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419397059139-pgqcrk8vi8ud2jv0flpqpiav7tilcvio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
